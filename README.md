@@ -33,7 +33,7 @@ Fully validated in simulation — only two files change for real Raspberry Pi de
 ### RViz2 — Live Path Following
 
 <p align="center">
-  <img src="docs/rviz2_path.png" alt="RViz2 Path Visualization" width="700"/>
+  <img src="docs/Screenshot 2026-05-20 054913.png" alt="RViz2 Path Visualization" width="700"/>
 </p>
 
 > Red line = planned waypoints from `last_path.csv` (real robot recording, 20 waypoints, 1.83 m)  
@@ -45,7 +45,7 @@ Fully validated in simulation — only two files change for real Raspberry Pi de
 ### RViz2 — Ultrasonic Sensor Cone
 
 <p align="center">
-  <img src="docs/rviz2_ultrasonic.png" alt="RViz2 with Ultrasonic Cone" width="700"/>
+  <img src="docs/Screenshot 2026-05-20 055714.png" alt="RViz2 with Ultrasonic Cone" width="700"/>
 </p>
 
 > Orange cone = simulated HC-SR04 ultrasonic sensor field of view  
@@ -63,7 +63,7 @@ Fully validated in simulation — only two files change for real Raspberry Pi de
 ### ROS2 Node Graph
 
 <p align="center">
-  <img src="docs/rqt_graph.png" alt="ROS2 Node Graph" width="900"/>
+  <img src="docs/Screenshot 2026-05-20 060540.png" alt="ROS2 Node Graph" width="900"/>
 </p>
 
 ---
@@ -71,15 +71,15 @@ Fully validated in simulation — only two files change for real Raspberry Pi de
 ### Terminal Output
 
 <p align="center">
-  <img src="docs/terminal_done.png" alt="Path Completion Terminal" width="800"/>
+  <img src="docs/Screenshot 2026-05-20 053357.png" alt="Path Completion Terminal" width="800"/>
 </p>
 
 <p align="center">
-  <img src="docs/terminal_motor.png" alt="Motor Controller Terminal" width="800"/>
+  <img src="docs/Screenshot 2026-05-20 053342.png" alt="Motor Controller Terminal" width="800"/>
 </p>
 
 <p align="center">
-  <img src="docs/terminal_odom.png" alt="Encoder Odometry Terminal" width="800"/>
+  <img src="docs/Screenshot 2026-05-20 053326.png" alt="Encoder Odometry Terminal" width="800"/>
 </p>
 
 ---
@@ -139,7 +139,7 @@ Fully validated in simulation — only two files change for real Raspberry Pi de
                      └──────┬──────┘
                             │ heading error > 5°?
               ┌─────────────┴─────────────┐
-              │ YES                        │ NO
+              │ YES                        │ NOh
               ▼                            ▼
        ┌─────────────┐             ┌─────────────┐
        │   TURNING   │────────────►│   DRIVING   │
