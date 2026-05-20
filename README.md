@@ -55,8 +55,8 @@ Fully validated in simulation — only two files change for real Raspberry Pi de
 
 ### Demo Video — RViz2 While Drawing
 
-> 🎬 **Add your video here** — upload to YouTube then replace this line with:  
-> `[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)`
+
+`[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=ni19Xvr9r-Q)`
 
 ---
 
